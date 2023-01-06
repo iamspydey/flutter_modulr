@@ -1,6 +1,6 @@
 const String stub = """
 import '../../../models/ApiResponse.dart';
-import '../../../../helpers/Request.dart';
+import '../../../helpers/Request.dart';
 import '{MODULE}Service.dart';
 
 class App{MODULE}Service implements {MODULE}Service {
